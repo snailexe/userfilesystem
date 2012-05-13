@@ -1,0 +1,5 @@
+
+Try:
+
+ ./userfs -reformat 200000 foo
+ ./userfs foo
